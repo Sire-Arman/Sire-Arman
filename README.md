@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Sire-Arman,Your Companion here!
-- 👀 I’m interested in just makin' money(halal✔️)
-- 🌱 I’m currently learning C++.(yepp thats it for now)
-- 💞️ I’m looking to collaborate on (TESLA,W motors)
-- 📫 How to reach me(don't fuckin' annoy me)if urgent mail me: armansid6783@gmail.com
+- 👀 I’m aspiring to work at TESLA Automobiles Ltd. as a Full Stack Developer.
+- 🌱 I’m currently enrolled in BTech (IT).
+- 💞️ I love finding logic in various day to day problems and aim at optimising them with minimal cost.
+- 📫 How to reach me...... mail me: arman2113022@akgec.ac.in
+- I believe that my conversation skills will beneficial for me as well as for my recruiters.
 
